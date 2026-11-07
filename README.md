@@ -52,13 +52,13 @@ pip install numpy pillow
 Encode an image:
 
 ```bash
-python radial_rgb.py encode input.jpg output.rgb
+python radial-rgb.py encode input.jpg output.rgb
 ```
 
 View an encoded image:
 
 ```bash
-python radial_rgb.py view output.rgb
+python radial-rgb.py view output.rgb
 ```
 
 ## License
